@@ -1,1 +1,1 @@
-# test2the first test of github
+# test2print("hello")%run /Users/a0955779017/Documents/GitHub/test2/temp.py
